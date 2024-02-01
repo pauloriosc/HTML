@@ -3,4 +3,4 @@ Um repositório onde realizei práticas e exercícios relacionados a HTML
 
 Imagens
 
-![ROCKET COFFE](https://exemplo.com/logo.png)
+![ROCKET COFFE](https://imgbox.com/ckRo1DGL)
